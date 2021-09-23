@@ -1,0 +1,4 @@
+---
+# tasks file for k3s-install
+- include: requirements.yml
+- include: k3s.yml
