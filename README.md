@@ -5,7 +5,7 @@ Prepare a Ubuntu node to receive k3s cluster.
 
 To configure nodes and init cluster, check the following roles. This role is a requirement for them:
 - https://github.com/lucaslehnen/k3s-config-master
-- https://github.com/lucaslehnen/k3s-install-
+- https://github.com/lucaslehnen/k3s-config-node
 
 This role must be run on all nodes.
 
