@@ -1,6 +1,9 @@
 Install k3s cluster on Ubuntu
 =========
 
+DEPRECATED: Migrated to https://github.com/lucaslehnen/tchecode.k3s
+
+
 Prepare a Ubuntu node to receive k3s cluster.
 
 To configure nodes and init cluster, check the following roles. This role is a requirement for them:
